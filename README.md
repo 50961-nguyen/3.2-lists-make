@@ -16,7 +16,7 @@ The program will then print out four things in this order:
 - The average (mean) grade (rounded to one decimal place)
 - The average (median) grade (rounded to one decimal place, if needed)
 
-**Note:** you do not need to make any functions for this task. Use the `lists` function/methods to complete the task. Look at the Explore for more details. 
+**Note:** you do not need to make any functions for this task. Use the `lists` function/methods to complete the task. 
 
 ### Sample Output
 ```plaintext
